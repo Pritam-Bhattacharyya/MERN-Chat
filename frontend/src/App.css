@@ -3,5 +3,7 @@
 .App {
   min-height: 100vh;
   display: flex;
-  background-color: lightblue;
+  background:url("./assets/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
